@@ -1,0 +1,3 @@
+def decimal_to_binary(n):
+    """Write a function to convert the given decimal number to its binary equivalent, represented as a string with no leading zeros."""
+    raise NotImplementedError

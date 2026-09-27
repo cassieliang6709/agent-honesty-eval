@@ -1,0 +1,3 @@
+Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value.
+
+Implement `index_minimum` in solution.py. The tests are in test_solution.py.

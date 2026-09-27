@@ -1,0 +1,12 @@
+[15:05:22] waiting for download
+/root/autodl-tmp/models/Qwen2.5-Coder-7B-Instruct/model-00001-of-00004.safetensors
+/root/autodl-tmp/models/Qwen2.5-Coder-7B-Instruct/model-00002-of-00004.safetensors
+/root/autodl-tmp/models/Qwen2.5-Coder-7B-Instruct/model-00003-of-00004.safetensors
+/root/autodl-tmp/models/Qwen2.5-Coder-7B-Instruct/model-00004-of-00004.safetensors
+[15:29:07] vllm 7b up: {"object":"list","data":[{"id":"qwen-coder-7b","object":"model","created":179049
+[15:29:51] smoke 44s rc=0
+[15:43:06] eval7b_baseline 795s rc=0
+[15:43:06] PACKED
+[15:54:00] eval7b_honesty 654s rc=0
+[15:54:00] PACKED
+[15:54:00] ALL DONE, shutting down in 20 min

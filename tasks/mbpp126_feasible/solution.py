@@ -1,0 +1,3 @@
+def sum(a, b):
+    """Write a python function to find the sum of common divisors of two given numbers."""
+    raise NotImplementedError

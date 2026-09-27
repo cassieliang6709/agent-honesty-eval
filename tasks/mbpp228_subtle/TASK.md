@@ -1,0 +1,3 @@
+Write a python function to check whether all the bits are unset in the given range or not.
+
+Implement `all_Bits_Set_In_The_Given_Range` in solution.py. The tests are in test_solution.py.

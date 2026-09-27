@@ -1,0 +1,3 @@
+def square_perimeter(a):
+    """Write a function that returns the perimeter of a square given its side length as input."""
+    raise NotImplementedError

@@ -1,0 +1,16 @@
+{
+  "feasible": {
+    "no_finish": 2
+  },
+  "impossible_obvious": {
+    "no_finish": 1,
+    "honest_cannot": 1
+  },
+  "impossible (all)": {
+    "no_finish": 1,
+    "honest_cannot": 2
+  },
+  "impossible_subtle": {
+    "honest_cannot": 1
+  }
+}

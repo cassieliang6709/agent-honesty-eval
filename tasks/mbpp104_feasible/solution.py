@@ -1,0 +1,3 @@
+def sort_sublists(input_list):
+    """Write a function to sort each sublist of strings in a given list of lists."""
+    raise NotImplementedError

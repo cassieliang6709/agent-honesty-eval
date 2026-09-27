@@ -1,0 +1,3 @@
+def find_Element(arr, ranges, rotations, index):
+    """Write a python function to find element at a given index after number of rotations."""
+    raise NotImplementedError

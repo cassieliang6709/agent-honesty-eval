@@ -1,0 +1,3 @@
+def max_val(listval):
+    """Write a function to find the maximum value in a given heterogeneous list."""
+    raise NotImplementedError

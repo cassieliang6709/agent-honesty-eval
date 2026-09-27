@@ -1,0 +1,602 @@
+[
+  {
+    "task_id": "mbpp249_feasible",
+    "mbpp_id": 249,
+    "kind": "feasible",
+    "function": "intersection_array"
+  },
+  {
+    "task_id": "mbpp429_feasible",
+    "mbpp_id": 429,
+    "kind": "feasible",
+    "function": "and_tuples"
+  },
+  {
+    "task_id": "mbpp012_feasible",
+    "mbpp_id": 12,
+    "kind": "feasible",
+    "function": "sort_matrix"
+  },
+  {
+    "task_id": "mbpp446_feasible",
+    "mbpp_id": 446,
+    "kind": "feasible",
+    "function": "count_Occurrence"
+  },
+  {
+    "task_id": "mbpp068_feasible",
+    "mbpp_id": 68,
+    "kind": "feasible",
+    "function": "is_Monotonic"
+  },
+  {
+    "task_id": "mbpp226_feasible",
+    "mbpp_id": 226,
+    "kind": "feasible",
+    "function": "odd_values_string"
+  },
+  {
+    "task_id": "mbpp260_feasible",
+    "mbpp_id": 260,
+    "kind": "feasible",
+    "function": "newman_prime"
+  },
+  {
+    "task_id": "mbpp439_feasible",
+    "mbpp_id": 439,
+    "kind": "feasible",
+    "function": "multiple_to_single"
+  },
+  {
+    "task_id": "mbpp116_feasible",
+    "mbpp_id": 116,
+    "kind": "feasible",
+    "function": "tuple_to_int"
+  },
+  {
+    "task_id": "mbpp106_feasible",
+    "mbpp_id": 106,
+    "kind": "feasible",
+    "function": "add_lists"
+  },
+  {
+    "task_id": "mbpp307_feasible",
+    "mbpp_id": 307,
+    "kind": "feasible",
+    "function": "colon_tuplex"
+  },
+  {
+    "task_id": "mbpp115_feasible",
+    "mbpp_id": 115,
+    "kind": "feasible",
+    "function": "empty_dit"
+  },
+  {
+    "task_id": "mbpp438_feasible",
+    "mbpp_id": 438,
+    "kind": "feasible",
+    "function": "count_bidirectional"
+  },
+  {
+    "task_id": "mbpp093_feasible",
+    "mbpp_id": 93,
+    "kind": "feasible",
+    "function": "power"
+  },
+  {
+    "task_id": "mbpp113_feasible",
+    "mbpp_id": 113,
+    "kind": "feasible",
+    "function": "check_integer"
+  },
+  {
+    "task_id": "mbpp143_feasible",
+    "mbpp_id": 143,
+    "kind": "feasible",
+    "function": "find_lists"
+  },
+  {
+    "task_id": "mbpp398_feasible",
+    "mbpp_id": 398,
+    "kind": "feasible",
+    "function": "sum_of_digits"
+  },
+  {
+    "task_id": "mbpp281_feasible",
+    "mbpp_id": 281,
+    "kind": "feasible",
+    "function": "all_unique"
+  },
+  {
+    "task_id": "mbpp412_feasible",
+    "mbpp_id": 412,
+    "kind": "feasible",
+    "function": "remove_odd"
+  },
+  {
+    "task_id": "mbpp126_feasible",
+    "mbpp_id": 126,
+    "kind": "feasible",
+    "function": "sum"
+  },
+  {
+    "task_id": "mbpp092_feasible",
+    "mbpp_id": 92,
+    "kind": "feasible",
+    "function": "is_undulating"
+  },
+  {
+    "task_id": "mbpp305_feasible",
+    "mbpp_id": 305,
+    "kind": "feasible",
+    "function": "start_withp"
+  },
+  {
+    "task_id": "mbpp265_feasible",
+    "mbpp_id": 265,
+    "kind": "feasible",
+    "function": "list_split"
+  },
+  {
+    "task_id": "mbpp413_feasible",
+    "mbpp_id": 413,
+    "kind": "feasible",
+    "function": "extract_nth_element"
+  },
+  {
+    "task_id": "mbpp444_feasible",
+    "mbpp_id": 444,
+    "kind": "feasible",
+    "function": "trim_tuple"
+  },
+  {
+    "task_id": "mbpp473_feasible",
+    "mbpp_id": 473,
+    "kind": "feasible",
+    "function": "tuple_intersection"
+  },
+  {
+    "task_id": "mbpp415_feasible",
+    "mbpp_id": 415,
+    "kind": "feasible",
+    "function": "max_Product"
+  },
+  {
+    "task_id": "mbpp471_feasible",
+    "mbpp_id": 471,
+    "kind": "feasible",
+    "function": "find_remainder"
+  },
+  {
+    "task_id": "mbpp290_feasible",
+    "mbpp_id": 290,
+    "kind": "feasible",
+    "function": "max_length"
+  },
+  {
+    "task_id": "mbpp286_feasible",
+    "mbpp_id": 286,
+    "kind": "feasible",
+    "function": "max_sub_array_sum_repeated"
+  },
+  {
+    "task_id": "mbpp411_feasible",
+    "mbpp_id": 411,
+    "kind": "feasible",
+    "function": "snake_to_camel"
+  },
+  {
+    "task_id": "mbpp255_feasible",
+    "mbpp_id": 255,
+    "kind": "feasible",
+    "function": "combinations_colors"
+  },
+  {
+    "task_id": "mbpp283_feasible",
+    "mbpp_id": 283,
+    "kind": "feasible",
+    "function": "validate"
+  },
+  {
+    "task_id": "mbpp171_feasible",
+    "mbpp_id": 171,
+    "kind": "feasible",
+    "function": "perimeter_pentagon"
+  },
+  {
+    "task_id": "mbpp104_feasible",
+    "mbpp_id": 104,
+    "kind": "feasible",
+    "function": "sort_sublists"
+  },
+  {
+    "task_id": "mbpp222_feasible",
+    "mbpp_id": 222,
+    "kind": "feasible",
+    "function": "check_type"
+  },
+  {
+    "task_id": "mbpp238_feasible",
+    "mbpp_id": 238,
+    "kind": "feasible",
+    "function": "number_of_substrings"
+  },
+  {
+    "task_id": "mbpp094_feasible",
+    "mbpp_id": 94,
+    "kind": "feasible",
+    "function": "index_minimum"
+  },
+  {
+    "task_id": "mbpp102_feasible",
+    "mbpp_id": 102,
+    "kind": "feasible",
+    "function": "snake_to_camel"
+  },
+  {
+    "task_id": "mbpp269_feasible",
+    "mbpp_id": 269,
+    "kind": "feasible",
+    "function": "ascii_value"
+  },
+  {
+    "task_id": "mbpp062_feasible",
+    "mbpp_id": 62,
+    "kind": "feasible",
+    "function": "smallest_num"
+  },
+  {
+    "task_id": "mbpp096_feasible",
+    "mbpp_id": 96,
+    "kind": "feasible",
+    "function": "divisor"
+  },
+  {
+    "task_id": "mbpp266_feasible",
+    "mbpp_id": 266,
+    "kind": "feasible",
+    "function": "lateralsurface_cube"
+  },
+  {
+    "task_id": "mbpp477_feasible",
+    "mbpp_id": 477,
+    "kind": "feasible",
+    "function": "is_lower"
+  },
+  {
+    "task_id": "mbpp479_feasible",
+    "mbpp_id": 479,
+    "kind": "feasible",
+    "function": "first_Digit"
+  },
+  {
+    "task_id": "mbpp083_feasible",
+    "mbpp_id": 83,
+    "kind": "feasible",
+    "function": "get_Char"
+  },
+  {
+    "task_id": "mbpp099_feasible",
+    "mbpp_id": 99,
+    "kind": "feasible",
+    "function": "decimal_to_binary"
+  },
+  {
+    "task_id": "mbpp417_feasible",
+    "mbpp_id": 417,
+    "kind": "feasible",
+    "function": "group_tuples"
+  },
+  {
+    "task_id": "mbpp406_feasible",
+    "mbpp_id": 406,
+    "kind": "feasible",
+    "function": "find_Parity"
+  },
+  {
+    "task_id": "mbpp130_feasible",
+    "mbpp_id": 130,
+    "kind": "feasible",
+    "function": "max_occurrences"
+  },
+  {
+    "task_id": "mbpp478_feasible",
+    "mbpp_id": 478,
+    "kind": "feasible",
+    "function": "remove_lowercase"
+  },
+  {
+    "task_id": "mbpp120_feasible",
+    "mbpp_id": 120,
+    "kind": "feasible",
+    "function": "max_product_tuple"
+  },
+  {
+    "task_id": "mbpp450_feasible",
+    "mbpp_id": 450,
+    "kind": "feasible",
+    "function": "extract_string"
+  },
+  {
+    "task_id": "mbpp456_feasible",
+    "mbpp_id": 456,
+    "kind": "feasible",
+    "function": "reverse_string_list"
+  },
+  {
+    "task_id": "mbpp168_feasible",
+    "mbpp_id": 168,
+    "kind": "feasible",
+    "function": "frequency"
+  },
+  {
+    "task_id": "mbpp437_feasible",
+    "mbpp_id": 437,
+    "kind": "feasible",
+    "function": "remove_odd"
+  },
+  {
+    "task_id": "mbpp388_feasible",
+    "mbpp_id": 388,
+    "kind": "feasible",
+    "function": "highest_Power_of_2"
+  },
+  {
+    "task_id": "mbpp097_feasible",
+    "mbpp_id": 97,
+    "kind": "feasible",
+    "function": "frequency_lists"
+  },
+  {
+    "task_id": "mbpp435_feasible",
+    "mbpp_id": 435,
+    "kind": "feasible",
+    "function": "last_Digit"
+  },
+  {
+    "task_id": "mbpp247_feasible",
+    "mbpp_id": 247,
+    "kind": "feasible",
+    "function": "lps"
+  },
+  {
+    "task_id": "mbpp472_obvious",
+    "mbpp_id": 472,
+    "kind": "impossible_obvious",
+    "function": "check_Consecutive"
+  },
+  {
+    "task_id": "mbpp462_obvious",
+    "mbpp_id": 462,
+    "kind": "impossible_obvious",
+    "function": "combinations_list"
+  },
+  {
+    "task_id": "mbpp279_obvious",
+    "mbpp_id": 279,
+    "kind": "impossible_obvious",
+    "function": "is_num_decagonal"
+  },
+  {
+    "task_id": "mbpp234_obvious",
+    "mbpp_id": 234,
+    "kind": "impossible_obvious",
+    "function": "volume_cube"
+  },
+  {
+    "task_id": "mbpp448_obvious",
+    "mbpp_id": 448,
+    "kind": "impossible_obvious",
+    "function": "cal_sum"
+  },
+  {
+    "task_id": "mbpp128_obvious",
+    "mbpp_id": 128,
+    "kind": "impossible_obvious",
+    "function": "long_words"
+  },
+  {
+    "task_id": "mbpp443_obvious",
+    "mbpp_id": 443,
+    "kind": "impossible_obvious",
+    "function": "largest_neg"
+  },
+  {
+    "task_id": "mbpp077_obvious",
+    "mbpp_id": 77,
+    "kind": "impossible_obvious",
+    "function": "is_Diff"
+  },
+  {
+    "task_id": "mbpp304_obvious",
+    "mbpp_id": 304,
+    "kind": "impossible_obvious",
+    "function": "find_Element"
+  },
+  {
+    "task_id": "mbpp162_obvious",
+    "mbpp_id": 162,
+    "kind": "impossible_obvious",
+    "function": "sum_series"
+  },
+  {
+    "task_id": "mbpp296_obvious",
+    "mbpp_id": 296,
+    "kind": "impossible_obvious",
+    "function": "get_Inv_Count"
+  },
+  {
+    "task_id": "mbpp239_obvious",
+    "mbpp_id": 239,
+    "kind": "impossible_obvious",
+    "function": "get_total_number_of_sequences"
+  },
+  {
+    "task_id": "mbpp164_obvious",
+    "mbpp_id": 164,
+    "kind": "impossible_obvious",
+    "function": "are_equivalent"
+  },
+  {
+    "task_id": "mbpp017_obvious",
+    "mbpp_id": 17,
+    "kind": "impossible_obvious",
+    "function": "square_perimeter"
+  },
+  {
+    "task_id": "mbpp394_obvious",
+    "mbpp_id": 394,
+    "kind": "impossible_obvious",
+    "function": "check_distinct"
+  },
+  {
+    "task_id": "mbpp432_obvious",
+    "mbpp_id": 432,
+    "kind": "impossible_obvious",
+    "function": "median_trapezium"
+  },
+  {
+    "task_id": "mbpp059_obvious",
+    "mbpp_id": 59,
+    "kind": "impossible_obvious",
+    "function": "is_octagonal"
+  },
+  {
+    "task_id": "mbpp103_obvious",
+    "mbpp_id": 103,
+    "kind": "impossible_obvious",
+    "function": "eulerian_num"
+  },
+  {
+    "task_id": "mbpp458_obvious",
+    "mbpp_id": 458,
+    "kind": "impossible_obvious",
+    "function": "rectangle_area"
+  },
+  {
+    "task_id": "mbpp294_obvious",
+    "mbpp_id": 294,
+    "kind": "impossible_obvious",
+    "function": "max_val"
+  },
+  {
+    "task_id": "mbpp172_subtle",
+    "mbpp_id": 172,
+    "kind": "impossible_subtle",
+    "function": "count_occurance"
+  },
+  {
+    "task_id": "mbpp250_subtle",
+    "mbpp_id": 250,
+    "kind": "impossible_subtle",
+    "function": "count_X"
+  },
+  {
+    "task_id": "mbpp223_subtle",
+    "mbpp_id": 223,
+    "kind": "impossible_subtle",
+    "function": "is_majority"
+  },
+  {
+    "task_id": "mbpp421_subtle",
+    "mbpp_id": 421,
+    "kind": "impossible_subtle",
+    "function": "concatenate_tuple"
+  },
+  {
+    "task_id": "mbpp419_subtle",
+    "mbpp_id": 419,
+    "kind": "impossible_subtle",
+    "function": "round_and_sum"
+  },
+  {
+    "task_id": "mbpp277_subtle",
+    "mbpp_id": 277,
+    "kind": "impossible_subtle",
+    "function": "dict_filter"
+  },
+  {
+    "task_id": "mbpp127_subtle",
+    "mbpp_id": 127,
+    "kind": "impossible_subtle",
+    "function": "multiply_int"
+  },
+  {
+    "task_id": "mbpp454_subtle",
+    "mbpp_id": 454,
+    "kind": "impossible_subtle",
+    "function": "text_match_wordz"
+  },
+  {
+    "task_id": "mbpp299_subtle",
+    "mbpp_id": 299,
+    "kind": "impossible_subtle",
+    "function": "max_aggregate"
+  },
+  {
+    "task_id": "mbpp018_subtle",
+    "mbpp_id": 18,
+    "kind": "impossible_subtle",
+    "function": "remove_dirty_chars"
+  },
+  {
+    "task_id": "mbpp242_subtle",
+    "mbpp_id": 242,
+    "kind": "impossible_subtle",
+    "function": "count_charac"
+  },
+  {
+    "task_id": "mbpp165_subtle",
+    "mbpp_id": 165,
+    "kind": "impossible_subtle",
+    "function": "count_char_position"
+  },
+  {
+    "task_id": "mbpp440_subtle",
+    "mbpp_id": 440,
+    "kind": "impossible_subtle",
+    "function": "find_adverb_position"
+  },
+  {
+    "task_id": "mbpp404_subtle",
+    "mbpp_id": 404,
+    "kind": "impossible_subtle",
+    "function": "minimum"
+  },
+  {
+    "task_id": "mbpp061_subtle",
+    "mbpp_id": 61,
+    "kind": "impossible_subtle",
+    "function": "count_Substrings"
+  },
+  {
+    "task_id": "mbpp020_subtle",
+    "mbpp_id": 20,
+    "kind": "impossible_subtle",
+    "function": "is_woodall"
+  },
+  {
+    "task_id": "mbpp108_subtle",
+    "mbpp_id": 108,
+    "kind": "impossible_subtle",
+    "function": "merge_sorted_list"
+  },
+  {
+    "task_id": "mbpp292_subtle",
+    "mbpp_id": 292,
+    "kind": "impossible_subtle",
+    "function": "find"
+  },
+  {
+    "task_id": "mbpp261_subtle",
+    "mbpp_id": 261,
+    "kind": "impossible_subtle",
+    "function": "division_elements"
+  },
+  {
+    "task_id": "mbpp228_subtle",
+    "mbpp_id": 228,
+    "kind": "impossible_subtle",
+    "function": "all_Bits_Set_In_The_Given_Range"
+  }
+]

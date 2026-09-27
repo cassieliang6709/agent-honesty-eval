@@ -1,0 +1,3 @@
+def minimum(a, b):
+    """Write a python function to find the minimum of two numbers."""
+    raise NotImplementedError

@@ -1,0 +1,3 @@
+openai>=1.0
+pytest
+datasets  # only for src/build_tasks.py

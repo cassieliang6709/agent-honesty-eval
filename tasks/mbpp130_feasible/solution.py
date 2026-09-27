@@ -1,0 +1,3 @@
+def max_occurrences(nums):
+    """Write a function to find the item with maximum frequency in a given list."""
+    raise NotImplementedError

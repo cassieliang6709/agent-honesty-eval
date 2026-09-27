@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.pytest_cache/
+
+# scratch output on the GPU box (published copies live in results/runs/)
+/runs/
+results/runs/*/work/
+
+# byte-identical duplicates of results/runs/ kept locally
+results/remote/
+results/3b_baseline_t07/
+
+# model download and vLLM server logs: noise, ~2.8 MB
+results/logs/download*.log
+results/logs/vllm*.log

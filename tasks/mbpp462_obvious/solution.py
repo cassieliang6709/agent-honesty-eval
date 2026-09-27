@@ -1,0 +1,3 @@
+def combinations_list(list1):
+    """Write a function to find all possible combinations of the elements of a given list."""
+    raise NotImplementedError

@@ -1,0 +1,3 @@
+def count_Substrings(s):
+    """Write a python function to count the number of substrings with the sum of digits equal to their length."""
+    raise NotImplementedError

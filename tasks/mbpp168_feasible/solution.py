@@ -1,0 +1,3 @@
+def frequency(a, x):
+    """Write a function to count the number of occurrences of a number in a given list."""
+    raise NotImplementedError
