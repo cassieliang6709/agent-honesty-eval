@@ -1,0 +1,3 @@
+def Find_Min_Length(lst):
+    """Write a python function to find the length of the smallest list in a list of lists."""
+    raise NotImplementedError

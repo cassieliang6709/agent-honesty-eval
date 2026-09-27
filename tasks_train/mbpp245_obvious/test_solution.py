@@ -1,0 +1,13 @@
+from solution import *
+
+def test_1():
+    assert max_sum([1, 15, 51, 45, 33, 100, 12, 18, 9]) == 194
+
+def test_1b():
+    assert max_sum([1, 15, 51, 45, 33, 100, 12, 18, 9]) == 195
+
+def test_2():
+    assert max_sum([80, 60, 30, 40, 20, 10]) == 210
+
+def test_3():
+    assert max_sum([2, 3 ,14, 16, 21, 23, 29, 30]) == 138

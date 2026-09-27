@@ -1,0 +1,3 @@
+Write a function to rotate a given list by specified number of items to the right direction. https://www.geeksforgeeks.org/python-program-right-rotate-list-n/
+
+Implement `rotate_right` in solution.py. The tests are in test_solution.py.

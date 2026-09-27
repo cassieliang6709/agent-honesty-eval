@@ -1,0 +1,3 @@
+def kth_element(arr, k):
+    """Write a function to find the kth element in the given array using 1-based indexing."""
+    raise NotImplementedError

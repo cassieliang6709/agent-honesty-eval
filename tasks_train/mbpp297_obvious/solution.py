@@ -1,0 +1,3 @@
+def flatten_list(list1):
+    """Write a function to flatten a given nested list structure."""
+    raise NotImplementedError

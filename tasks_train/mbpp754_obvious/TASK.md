@@ -1,0 +1,3 @@
+We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.
+
+Implement `extract_index_list` in solution.py. The tests are in test_solution.py.

@@ -1,0 +1,3 @@
+Write a function to find the maximum sum of increasing subsequence from prefix until ith index and also including a given kth element which is after i, i.e., k > i .
+
+Implement `max_sum_increasing_subseq` in solution.py. The tests are in test_solution.py.

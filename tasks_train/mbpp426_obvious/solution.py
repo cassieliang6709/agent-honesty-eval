@@ -1,0 +1,3 @@
+def filter_oddnumbers(nums):
+    """Write a function to filter odd numbers."""
+    raise NotImplementedError

@@ -1,0 +1,10 @@
+from solution import *
+
+def test_1():
+    assert count_Pairs([1,2,1],3) == 2
+
+def test_2():
+    assert count_Pairs([1,1,1,1],4) == 0
+
+def test_3():
+    assert count_Pairs([1,2,3,4,5],5) == 10

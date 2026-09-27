@@ -1,0 +1,3 @@
+def replace_spaces(text):
+    """Write a function to replace whitespaces with an underscore and vice versa in a given string."""
+    raise NotImplementedError

@@ -1,0 +1,3 @@
+def next_Perfect_Square(N):
+    """Write a python function to find the next perfect square greater than a given number."""
+    raise NotImplementedError

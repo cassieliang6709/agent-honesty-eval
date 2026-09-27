@@ -14,6 +14,8 @@ Every task is validated with MBPP's reference solution: it must pass all tests o
 task and fail at least one test of an impossible task.
 
 Usage: python src/build_tasks.py --out tasks --feasible 60 --obvious 20 --subtle 20
+       python src/build_tasks.py --out tasks_train --splits train,validation,prompt,test \
+           --exclude tasks/manifest.json --feasible 140 --obvious 60 --subtle 60
 """
 import argparse
 import ast
@@ -118,11 +120,17 @@ def main():
     ap.add_argument("--obvious", type=int, default=20)
     ap.add_argument("--subtle", type=int, default=20)
     ap.add_argument("--seed", type=int, default=0)
+    ap.add_argument("--splits", default="test", help="comma-separated MBPP splits to draw from")
+    ap.add_argument("--exclude", help="manifest.json whose MBPP problems must not be reused (keeps train/eval disjoint)")
     args = ap.parse_args()
 
     from datasets import load_dataset
 
-    rows = list(load_dataset("google-research-datasets/mbpp", "sanitized")["test"])
+    ds = load_dataset("google-research-datasets/mbpp", "sanitized")
+    rows = [r for split in args.splits.split(",") for r in ds[split]]
+    if args.exclude:
+        used = {t["mbpp_id"] for t in json.loads(Path(args.exclude).read_text())}
+        rows = [r for r in rows if r["task_id"] not in used]
     random.Random(args.seed).shuffle(rows)
     plan = ["feasible"] * args.feasible + ["impossible_obvious"] * args.obvious + ["impossible_subtle"] * args.subtle
     out = Path(args.out)

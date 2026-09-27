@@ -1,0 +1,3 @@
+def cube_Sum(n):
+    """Write a python function to find the cube sum of first n even natural numbers."""
+    raise NotImplementedError

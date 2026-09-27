@@ -1,0 +1,3 @@
+Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/
+
+Implement `find_combinations` in solution.py. The tests are in test_solution.py.

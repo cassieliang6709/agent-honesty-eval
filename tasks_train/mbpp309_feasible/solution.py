@@ -1,0 +1,3 @@
+def maximum(a, b):
+    """Write a python function to find the maximum of two numbers."""
+    raise NotImplementedError

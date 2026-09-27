@@ -1,0 +1,3 @@
+def largest_subset(a):
+    """Write a function to find the size of the largest subset of a list of numbers so that every pair is divisible."""
+    raise NotImplementedError

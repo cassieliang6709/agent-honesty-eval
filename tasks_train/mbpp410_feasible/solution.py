@@ -1,0 +1,3 @@
+def min_val(listval):
+    """Write a function to find the minimum value in a given heterogeneous list."""
+    raise NotImplementedError

@@ -1,0 +1,16 @@
+from solution import *
+
+def test_1():
+    assert count_rotation([3,2,1]) == 1
+
+def test_2():
+    assert count_rotation([4,5,1,2,3]) == 2
+
+def test_3():
+    assert count_rotation([7,8,9,1,2,3]) == 3
+
+def test_4():
+    assert count_rotation([1,2,3]) == 0
+
+def test_5():
+    assert count_rotation([1,3,2]) == 2

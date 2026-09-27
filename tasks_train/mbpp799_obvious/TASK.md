@@ -1,0 +1,3 @@
+Write a function to that rotate left bits by d bits a given number. We assume that the number is 32 bit.
+
+Implement `left_rotate` in solution.py. The tests are in test_solution.py.

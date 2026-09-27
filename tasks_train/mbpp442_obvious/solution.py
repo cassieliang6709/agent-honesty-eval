@@ -1,0 +1,3 @@
+def positive_count(nums):
+    """Write a function to find the ration of positive numbers in an array of integers."""
+    raise NotImplementedError

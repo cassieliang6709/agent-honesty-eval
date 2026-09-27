@@ -1,0 +1,3 @@
+Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).
+
+Implement `sequential_search` in solution.py. The tests are in test_solution.py.

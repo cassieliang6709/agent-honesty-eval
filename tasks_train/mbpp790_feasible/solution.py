@@ -1,0 +1,3 @@
+def even_position(nums):
+    """Write a python function to check whether every even index contains even numbers of a given list."""
+    raise NotImplementedError

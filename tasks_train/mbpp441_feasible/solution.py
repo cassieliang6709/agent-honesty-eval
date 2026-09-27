@@ -1,0 +1,3 @@
+def surfacearea_cube(l):
+    """Write a function to find the surface area of a cube of a given size."""
+    raise NotImplementedError

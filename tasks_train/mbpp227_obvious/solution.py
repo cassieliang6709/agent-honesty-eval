@@ -1,0 +1,3 @@
+def min_of_three(a, b, c):
+    """Write a function to find minimum of three numbers."""
+    raise NotImplementedError

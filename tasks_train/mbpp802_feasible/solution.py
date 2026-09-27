@@ -1,0 +1,3 @@
+def count_rotation(arr):
+    """Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/"""
+    raise NotImplementedError

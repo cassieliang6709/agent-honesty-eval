@@ -1,0 +1,3 @@
+def median_numbers(a, b, c):
+    """Write a function to find the median of three numbers."""
+    raise NotImplementedError

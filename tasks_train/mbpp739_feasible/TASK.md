@@ -1,0 +1,3 @@
+Write a python function to find the index of smallest triangular number with n digits. https://www.geeksforgeeks.org/index-of-smallest-triangular-number-with-n-digits/
+
+Implement `find_Index` in solution.py. The tests are in test_solution.py.

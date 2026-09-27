@@ -1,0 +1,3 @@
+def find_tuples(test_list, K):
+    """Write a function to find tuples which have all elements divisible by k from the given list of tuples."""
+    raise NotImplementedError

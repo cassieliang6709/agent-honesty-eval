@@ -1,0 +1,3 @@
+def rotate_right(list, m):
+    """Write a function to rotate a given list by specified number of items to the right direction. https://www.geeksforgeeks.org/python-program-right-rotate-list-n/"""
+    raise NotImplementedError

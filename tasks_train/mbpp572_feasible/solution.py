@@ -1,0 +1,3 @@
+def two_unique_nums(nums):
+    """Write a python function to remove duplicate numbers from a given number of lists."""
+    raise NotImplementedError

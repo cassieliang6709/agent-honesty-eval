@@ -1,0 +1,3 @@
+Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].
+
+Implement `sum_list` in solution.py. The tests are in test_solution.py.

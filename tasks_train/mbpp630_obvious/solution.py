@@ -1,0 +1,3 @@
+def get_coordinates(test_tup):
+    """Write a function to extract all the adjacent coordinates of the given coordinate tuple."""
+    raise NotImplementedError

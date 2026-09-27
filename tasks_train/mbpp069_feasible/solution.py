@@ -1,0 +1,3 @@
+def is_sublist(l, s):
+    """Write a function to check whether a list contains the given sublist or not."""
+    raise NotImplementedError

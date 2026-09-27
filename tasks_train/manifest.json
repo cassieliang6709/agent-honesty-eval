@@ -1,0 +1,1562 @@
+[
+  {
+    "task_id": "mbpp583_feasible",
+    "mbpp_id": 583,
+    "kind": "feasible",
+    "function": "catalan_number"
+  },
+  {
+    "task_id": "mbpp597_feasible",
+    "mbpp_id": 597,
+    "kind": "feasible",
+    "function": "find_kth"
+  },
+  {
+    "task_id": "mbpp786_feasible",
+    "mbpp_id": 786,
+    "kind": "feasible",
+    "function": "right_insertion"
+  },
+  {
+    "task_id": "mbpp791_feasible",
+    "mbpp_id": 791,
+    "kind": "feasible",
+    "function": "remove_nested"
+  },
+  {
+    "task_id": "mbpp470_feasible",
+    "mbpp_id": 470,
+    "kind": "feasible",
+    "function": "add_pairwise"
+  },
+  {
+    "task_id": "mbpp301_feasible",
+    "mbpp_id": 301,
+    "kind": "feasible",
+    "function": "dict_depth"
+  },
+  {
+    "task_id": "mbpp295_feasible",
+    "mbpp_id": 295,
+    "kind": "feasible",
+    "function": "sum_div"
+  },
+  {
+    "task_id": "mbpp434_feasible",
+    "mbpp_id": 434,
+    "kind": "feasible",
+    "function": "text_match_one"
+  },
+  {
+    "task_id": "mbpp460_feasible",
+    "mbpp_id": 460,
+    "kind": "feasible",
+    "function": "Extract"
+  },
+  {
+    "task_id": "mbpp410_feasible",
+    "mbpp_id": 410,
+    "kind": "feasible",
+    "function": "min_val"
+  },
+  {
+    "task_id": "mbpp405_feasible",
+    "mbpp_id": 405,
+    "kind": "feasible",
+    "function": "check_tuplex"
+  },
+  {
+    "task_id": "mbpp095_feasible",
+    "mbpp_id": 95,
+    "kind": "feasible",
+    "function": "Find_Min_Length"
+  },
+  {
+    "task_id": "mbpp455_feasible",
+    "mbpp_id": 455,
+    "kind": "feasible",
+    "function": "check_monthnumb_number"
+  },
+  {
+    "task_id": "mbpp792_feasible",
+    "mbpp_id": 792,
+    "kind": "feasible",
+    "function": "count_list"
+  },
+  {
+    "task_id": "mbpp744_feasible",
+    "mbpp_id": 744,
+    "kind": "feasible",
+    "function": "check_none"
+  },
+  {
+    "task_id": "mbpp167_feasible",
+    "mbpp_id": 167,
+    "kind": "feasible",
+    "function": "next_power_of_2"
+  },
+  {
+    "task_id": "mbpp452_feasible",
+    "mbpp_id": 452,
+    "kind": "feasible",
+    "function": "loss_amount"
+  },
+  {
+    "task_id": "mbpp145_feasible",
+    "mbpp_id": 145,
+    "kind": "feasible",
+    "function": "max_Abs_Diff"
+  },
+  {
+    "task_id": "mbpp565_feasible",
+    "mbpp_id": 565,
+    "kind": "feasible",
+    "function": "split"
+  },
+  {
+    "task_id": "mbpp769_feasible",
+    "mbpp_id": 769,
+    "kind": "feasible",
+    "function": "Diff"
+  },
+  {
+    "task_id": "mbpp004_feasible",
+    "mbpp_id": 4,
+    "kind": "feasible",
+    "function": "heap_queue_largest"
+  },
+  {
+    "task_id": "mbpp074_feasible",
+    "mbpp_id": 74,
+    "kind": "feasible",
+    "function": "is_samepatterns"
+  },
+  {
+    "task_id": "mbpp287_feasible",
+    "mbpp_id": 287,
+    "kind": "feasible",
+    "function": "square_Sum"
+  },
+  {
+    "task_id": "mbpp632_feasible",
+    "mbpp_id": 632,
+    "kind": "feasible",
+    "function": "move_zero"
+  },
+  {
+    "task_id": "mbpp758_feasible",
+    "mbpp_id": 758,
+    "kind": "feasible",
+    "function": "unique_sublists"
+  },
+  {
+    "task_id": "mbpp058_feasible",
+    "mbpp_id": 58,
+    "kind": "feasible",
+    "function": "opposite_Signs"
+  },
+  {
+    "task_id": "mbpp580_feasible",
+    "mbpp_id": 580,
+    "kind": "feasible",
+    "function": "extract_even"
+  },
+  {
+    "task_id": "mbpp101_feasible",
+    "mbpp_id": 101,
+    "kind": "feasible",
+    "function": "kth_element"
+  },
+  {
+    "task_id": "mbpp780_feasible",
+    "mbpp_id": 780,
+    "kind": "feasible",
+    "function": "find_combinations"
+  },
+  {
+    "task_id": "mbpp581_feasible",
+    "mbpp_id": 581,
+    "kind": "feasible",
+    "function": "surface_Area"
+  },
+  {
+    "task_id": "mbpp014_feasible",
+    "mbpp_id": 14,
+    "kind": "feasible",
+    "function": "find_Volume"
+  },
+  {
+    "task_id": "mbpp080_feasible",
+    "mbpp_id": 80,
+    "kind": "feasible",
+    "function": "tetrahedral_number"
+  },
+  {
+    "task_id": "mbpp641_feasible",
+    "mbpp_id": 641,
+    "kind": "feasible",
+    "function": "is_nonagonal"
+  },
+  {
+    "task_id": "mbpp617_feasible",
+    "mbpp_id": 617,
+    "kind": "feasible",
+    "function": "min_Jumps"
+  },
+  {
+    "task_id": "mbpp574_feasible",
+    "mbpp_id": 574,
+    "kind": "feasible",
+    "function": "surfacearea_cylinder"
+  },
+  {
+    "task_id": "mbpp808_feasible",
+    "mbpp_id": 808,
+    "kind": "feasible",
+    "function": "check_K"
+  },
+  {
+    "task_id": "mbpp572_feasible",
+    "mbpp_id": 572,
+    "kind": "feasible",
+    "function": "two_unique_nums"
+  },
+  {
+    "task_id": "mbpp578_feasible",
+    "mbpp_id": 578,
+    "kind": "feasible",
+    "function": "interleave_lists"
+  },
+  {
+    "task_id": "mbpp752_feasible",
+    "mbpp_id": 752,
+    "kind": "feasible",
+    "function": "jacobsthal_num"
+  },
+  {
+    "task_id": "mbpp397_feasible",
+    "mbpp_id": 397,
+    "kind": "feasible",
+    "function": "median_numbers"
+  },
+  {
+    "task_id": "mbpp566_feasible",
+    "mbpp_id": 566,
+    "kind": "feasible",
+    "function": "sum_digits"
+  },
+  {
+    "task_id": "mbpp739_feasible",
+    "mbpp_id": 739,
+    "kind": "feasible",
+    "function": "find_Index"
+  },
+  {
+    "task_id": "mbpp616_feasible",
+    "mbpp_id": 616,
+    "kind": "feasible",
+    "function": "tuple_modulo"
+  },
+  {
+    "task_id": "mbpp631_feasible",
+    "mbpp_id": 631,
+    "kind": "feasible",
+    "function": "replace_spaces"
+  },
+  {
+    "task_id": "mbpp605_feasible",
+    "mbpp_id": 605,
+    "kind": "feasible",
+    "function": "prime_num"
+  },
+  {
+    "task_id": "mbpp393_feasible",
+    "mbpp_id": 393,
+    "kind": "feasible",
+    "function": "max_length_list"
+  },
+  {
+    "task_id": "mbpp796_feasible",
+    "mbpp_id": 796,
+    "kind": "feasible",
+    "function": "return_sum"
+  },
+  {
+    "task_id": "mbpp759_feasible",
+    "mbpp_id": 759,
+    "kind": "feasible",
+    "function": "is_decimal"
+  },
+  {
+    "task_id": "mbpp459_feasible",
+    "mbpp_id": 459,
+    "kind": "feasible",
+    "function": "remove_uppercase"
+  },
+  {
+    "task_id": "mbpp604_feasible",
+    "mbpp_id": 604,
+    "kind": "feasible",
+    "function": "reverse_words"
+  },
+  {
+    "task_id": "mbpp778_feasible",
+    "mbpp_id": 778,
+    "kind": "feasible",
+    "function": "pack_consecutive_duplicates"
+  },
+  {
+    "task_id": "mbpp135_feasible",
+    "mbpp_id": 135,
+    "kind": "feasible",
+    "function": "hexagonal_num"
+  },
+  {
+    "task_id": "mbpp430_feasible",
+    "mbpp_id": 430,
+    "kind": "feasible",
+    "function": "parabola_directrix"
+  },
+  {
+    "task_id": "mbpp598_feasible",
+    "mbpp_id": 598,
+    "kind": "feasible",
+    "function": "armstrong_number"
+  },
+  {
+    "task_id": "mbpp428_feasible",
+    "mbpp_id": 428,
+    "kind": "feasible",
+    "function": "shell_sort"
+  },
+  {
+    "task_id": "mbpp251_feasible",
+    "mbpp_id": 251,
+    "kind": "feasible",
+    "function": "insert_element"
+  },
+  {
+    "task_id": "mbpp806_feasible",
+    "mbpp_id": 806,
+    "kind": "feasible",
+    "function": "max_run_uppercase"
+  },
+  {
+    "task_id": "mbpp728_feasible",
+    "mbpp_id": 728,
+    "kind": "feasible",
+    "function": "sum_list"
+  },
+  {
+    "task_id": "mbpp802_feasible",
+    "mbpp_id": 802,
+    "kind": "feasible",
+    "function": "count_rotation"
+  },
+  {
+    "task_id": "mbpp753_feasible",
+    "mbpp_id": 753,
+    "kind": "feasible",
+    "function": "min_k"
+  },
+  {
+    "task_id": "mbpp119_feasible",
+    "mbpp_id": 119,
+    "kind": "feasible",
+    "function": "search"
+  },
+  {
+    "task_id": "mbpp391_feasible",
+    "mbpp_id": 391,
+    "kind": "feasible",
+    "function": "convert_list_dictionary"
+  },
+  {
+    "task_id": "mbpp272_feasible",
+    "mbpp_id": 272,
+    "kind": "feasible",
+    "function": "rear_extract"
+  },
+  {
+    "task_id": "mbpp230_feasible",
+    "mbpp_id": 230,
+    "kind": "feasible",
+    "function": "replace_blank"
+  },
+  {
+    "task_id": "mbpp091_feasible",
+    "mbpp_id": 91,
+    "kind": "feasible",
+    "function": "find_substring"
+  },
+  {
+    "task_id": "mbpp766_feasible",
+    "mbpp_id": 766,
+    "kind": "feasible",
+    "function": "pair_wise"
+  },
+  {
+    "task_id": "mbpp141_feasible",
+    "mbpp_id": 141,
+    "kind": "feasible",
+    "function": "pancake_sort"
+  },
+  {
+    "task_id": "mbpp742_feasible",
+    "mbpp_id": 742,
+    "kind": "feasible",
+    "function": "area_tetrahedron"
+  },
+  {
+    "task_id": "mbpp633_feasible",
+    "mbpp_id": 633,
+    "kind": "feasible",
+    "function": "pair_xor_Sum"
+  },
+  {
+    "task_id": "mbpp237_feasible",
+    "mbpp_id": 237,
+    "kind": "feasible",
+    "function": "check_occurences"
+  },
+  {
+    "task_id": "mbpp629_feasible",
+    "mbpp_id": 629,
+    "kind": "feasible",
+    "function": "Split"
+  },
+  {
+    "task_id": "mbpp224_feasible",
+    "mbpp_id": 224,
+    "kind": "feasible",
+    "function": "count_Set_Bits"
+  },
+  {
+    "task_id": "mbpp399_feasible",
+    "mbpp_id": 399,
+    "kind": "feasible",
+    "function": "bitwise_xor"
+  },
+  {
+    "task_id": "mbpp436_feasible",
+    "mbpp_id": 436,
+    "kind": "feasible",
+    "function": "neg_nos"
+  },
+  {
+    "task_id": "mbpp800_feasible",
+    "mbpp_id": 800,
+    "kind": "feasible",
+    "function": "remove_all_spaces"
+  },
+  {
+    "task_id": "mbpp390_feasible",
+    "mbpp_id": 390,
+    "kind": "feasible",
+    "function": "add_string"
+  },
+  {
+    "task_id": "mbpp620_feasible",
+    "mbpp_id": 620,
+    "kind": "feasible",
+    "function": "largest_subset"
+  },
+  {
+    "task_id": "mbpp765_feasible",
+    "mbpp_id": 765,
+    "kind": "feasible",
+    "function": "is_polite"
+  },
+  {
+    "task_id": "mbpp767_feasible",
+    "mbpp_id": 767,
+    "kind": "feasible",
+    "function": "get_pairs_count"
+  },
+  {
+    "task_id": "mbpp441_feasible",
+    "mbpp_id": 441,
+    "kind": "feasible",
+    "function": "surfacearea_cube"
+  },
+  {
+    "task_id": "mbpp087_feasible",
+    "mbpp_id": 87,
+    "kind": "feasible",
+    "function": "merge_dictionaries_three"
+  },
+  {
+    "task_id": "mbpp773_feasible",
+    "mbpp_id": 773,
+    "kind": "feasible",
+    "function": "occurance_substring"
+  },
+  {
+    "task_id": "mbpp644_feasible",
+    "mbpp_id": 644,
+    "kind": "feasible",
+    "function": "reverse_Array_Upto_K"
+  },
+  {
+    "task_id": "mbpp764_feasible",
+    "mbpp_id": 764,
+    "kind": "feasible",
+    "function": "number_ctr"
+  },
+  {
+    "task_id": "mbpp559_feasible",
+    "mbpp_id": 559,
+    "kind": "feasible",
+    "function": "max_sub_array_sum"
+  },
+  {
+    "task_id": "mbpp746_feasible",
+    "mbpp_id": 746,
+    "kind": "feasible",
+    "function": "sector_area"
+  },
+  {
+    "task_id": "mbpp562_feasible",
+    "mbpp_id": 562,
+    "kind": "feasible",
+    "function": "Find_Max_Length"
+  },
+  {
+    "task_id": "mbpp589_feasible",
+    "mbpp_id": 589,
+    "kind": "feasible",
+    "function": "perfect_squares"
+  },
+  {
+    "task_id": "mbpp643_feasible",
+    "mbpp_id": 643,
+    "kind": "feasible",
+    "function": "text_match_wordz_middle"
+  },
+  {
+    "task_id": "mbpp089_feasible",
+    "mbpp_id": 89,
+    "kind": "feasible",
+    "function": "closest_num"
+  },
+  {
+    "task_id": "mbpp117_feasible",
+    "mbpp_id": 117,
+    "kind": "feasible",
+    "function": "list_to_float"
+  },
+  {
+    "task_id": "mbpp790_feasible",
+    "mbpp_id": 790,
+    "kind": "feasible",
+    "function": "even_position"
+  },
+  {
+    "task_id": "mbpp725_feasible",
+    "mbpp_id": 725,
+    "kind": "feasible",
+    "function": "extract_quotation"
+  },
+  {
+    "task_id": "mbpp579_feasible",
+    "mbpp_id": 579,
+    "kind": "feasible",
+    "function": "find_dissimilar"
+  },
+  {
+    "task_id": "mbpp743_feasible",
+    "mbpp_id": 743,
+    "kind": "feasible",
+    "function": "rotate_right"
+  },
+  {
+    "task_id": "mbpp465_feasible",
+    "mbpp_id": 465,
+    "kind": "feasible",
+    "function": "drop_empty"
+  },
+  {
+    "task_id": "mbpp776_feasible",
+    "mbpp_id": 776,
+    "kind": "feasible",
+    "function": "count_vowels"
+  },
+  {
+    "task_id": "mbpp451_feasible",
+    "mbpp_id": 451,
+    "kind": "feasible",
+    "function": "remove_whitespaces"
+  },
+  {
+    "task_id": "mbpp624_feasible",
+    "mbpp_id": 624,
+    "kind": "feasible",
+    "function": "is_upper"
+  },
+  {
+    "task_id": "mbpp407_feasible",
+    "mbpp_id": 407,
+    "kind": "feasible",
+    "function": "rearrange_bigger"
+  },
+  {
+    "task_id": "mbpp771_feasible",
+    "mbpp_id": 771,
+    "kind": "feasible",
+    "function": "check_expression"
+  },
+  {
+    "task_id": "mbpp138_feasible",
+    "mbpp_id": 138,
+    "kind": "feasible",
+    "function": "is_Sum_Of_Powers_Of_Two"
+  },
+  {
+    "task_id": "mbpp072_feasible",
+    "mbpp_id": 72,
+    "kind": "feasible",
+    "function": "dif_Square"
+  },
+  {
+    "task_id": "mbpp730_feasible",
+    "mbpp_id": 730,
+    "kind": "feasible",
+    "function": "consecutive_duplicates"
+  },
+  {
+    "task_id": "mbpp161_feasible",
+    "mbpp_id": 161,
+    "kind": "feasible",
+    "function": "remove_elements"
+  },
+  {
+    "task_id": "mbpp722_feasible",
+    "mbpp_id": 722,
+    "kind": "feasible",
+    "function": "filter_data"
+  },
+  {
+    "task_id": "mbpp750_feasible",
+    "mbpp_id": 750,
+    "kind": "feasible",
+    "function": "add_tuple"
+  },
+  {
+    "task_id": "mbpp069_feasible",
+    "mbpp_id": 69,
+    "kind": "feasible",
+    "function": "is_sublist"
+  },
+  {
+    "task_id": "mbpp240_feasible",
+    "mbpp_id": 240,
+    "kind": "feasible",
+    "function": "replace_list"
+  },
+  {
+    "task_id": "mbpp414_feasible",
+    "mbpp_id": 414,
+    "kind": "feasible",
+    "function": "overlapping"
+  },
+  {
+    "task_id": "mbpp564_feasible",
+    "mbpp_id": 564,
+    "kind": "feasible",
+    "function": "count_Pairs"
+  },
+  {
+    "task_id": "mbpp603_feasible",
+    "mbpp_id": 603,
+    "kind": "feasible",
+    "function": "get_ludic"
+  },
+  {
+    "task_id": "mbpp256_feasible",
+    "mbpp_id": 256,
+    "kind": "feasible",
+    "function": "count_Primes_nums"
+  },
+  {
+    "task_id": "mbpp271_feasible",
+    "mbpp_id": 271,
+    "kind": "feasible",
+    "function": "even_Power_Sum"
+  },
+  {
+    "task_id": "mbpp807_feasible",
+    "mbpp_id": 807,
+    "kind": "feasible",
+    "function": "first_odd"
+  },
+  {
+    "task_id": "mbpp762_feasible",
+    "mbpp_id": 762,
+    "kind": "feasible",
+    "function": "check_monthnumber_number"
+  },
+  {
+    "task_id": "mbpp291_feasible",
+    "mbpp_id": 291,
+    "kind": "feasible",
+    "function": "count_no_of_ways"
+  },
+  {
+    "task_id": "mbpp749_feasible",
+    "mbpp_id": 749,
+    "kind": "feasible",
+    "function": "sort_numeric_strings"
+  },
+  {
+    "task_id": "mbpp775_feasible",
+    "mbpp_id": 775,
+    "kind": "feasible",
+    "function": "odd_position"
+  },
+  {
+    "task_id": "mbpp309_feasible",
+    "mbpp_id": 309,
+    "kind": "feasible",
+    "function": "maximum"
+  },
+  {
+    "task_id": "mbpp723_feasible",
+    "mbpp_id": 723,
+    "kind": "feasible",
+    "function": "count_same_pair"
+  },
+  {
+    "task_id": "mbpp618_feasible",
+    "mbpp_id": 618,
+    "kind": "feasible",
+    "function": "div_list"
+  },
+  {
+    "task_id": "mbpp084_feasible",
+    "mbpp_id": 84,
+    "kind": "feasible",
+    "function": "sequence"
+  },
+  {
+    "task_id": "mbpp554_feasible",
+    "mbpp_id": 554,
+    "kind": "feasible",
+    "function": "Split"
+  },
+  {
+    "task_id": "mbpp123_feasible",
+    "mbpp_id": 123,
+    "kind": "feasible",
+    "function": "amicable_numbers_sum"
+  },
+  {
+    "task_id": "mbpp590_feasible",
+    "mbpp_id": 590,
+    "kind": "feasible",
+    "function": "polar_rect"
+  },
+  {
+    "task_id": "mbpp427_feasible",
+    "mbpp_id": 427,
+    "kind": "feasible",
+    "function": "change_date_format"
+  },
+  {
+    "task_id": "mbpp131_feasible",
+    "mbpp_id": 131,
+    "kind": "feasible",
+    "function": "reverse_vowels"
+  },
+  {
+    "task_id": "mbpp591_feasible",
+    "mbpp_id": 591,
+    "kind": "feasible",
+    "function": "swap_List"
+  },
+  {
+    "task_id": "mbpp614_feasible",
+    "mbpp_id": 614,
+    "kind": "feasible",
+    "function": "cummulative_sum"
+  },
+  {
+    "task_id": "mbpp809_feasible",
+    "mbpp_id": 809,
+    "kind": "feasible",
+    "function": "check_smaller"
+  },
+  {
+    "task_id": "mbpp445_feasible",
+    "mbpp_id": 445,
+    "kind": "feasible",
+    "function": "index_multiplication"
+  },
+  {
+    "task_id": "mbpp595_feasible",
+    "mbpp_id": 595,
+    "kind": "feasible",
+    "function": "min_Swaps"
+  },
+  {
+    "task_id": "mbpp468_feasible",
+    "mbpp_id": 468,
+    "kind": "feasible",
+    "function": "max_product"
+  },
+  {
+    "task_id": "mbpp457_feasible",
+    "mbpp_id": 457,
+    "kind": "feasible",
+    "function": "Find_Min"
+  },
+  {
+    "task_id": "mbpp777_feasible",
+    "mbpp_id": 777,
+    "kind": "feasible",
+    "function": "find_sum"
+  },
+  {
+    "task_id": "mbpp763_feasible",
+    "mbpp_id": 763,
+    "kind": "feasible",
+    "function": "find_min_diff"
+  },
+  {
+    "task_id": "mbpp063_feasible",
+    "mbpp_id": 63,
+    "kind": "feasible",
+    "function": "max_difference"
+  },
+  {
+    "task_id": "mbpp071_feasible",
+    "mbpp_id": 71,
+    "kind": "feasible",
+    "function": "comb_sort"
+  },
+  {
+    "task_id": "mbpp257_feasible",
+    "mbpp_id": 257,
+    "kind": "feasible",
+    "function": "swap_numbers"
+  },
+  {
+    "task_id": "mbpp262_obvious",
+    "mbpp_id": 262,
+    "kind": "impossible_obvious",
+    "function": "split_two_parts"
+  },
+  {
+    "task_id": "mbpp306_obvious",
+    "mbpp_id": 306,
+    "kind": "impossible_obvious",
+    "function": "max_sum_increasing_subseq"
+  },
+  {
+    "task_id": "mbpp798_obvious",
+    "mbpp_id": 798,
+    "kind": "impossible_obvious",
+    "function": "_sum"
+  },
+  {
+    "task_id": "mbpp577_obvious",
+    "mbpp_id": 577,
+    "kind": "impossible_obvious",
+    "function": "last_Digit_Factorial"
+  },
+  {
+    "task_id": "mbpp442_obvious",
+    "mbpp_id": 442,
+    "kind": "impossible_obvious",
+    "function": "positive_count"
+  },
+  {
+    "task_id": "mbpp079_obvious",
+    "mbpp_id": 79,
+    "kind": "impossible_obvious",
+    "function": "word_len"
+  },
+  {
+    "task_id": "mbpp738_obvious",
+    "mbpp_id": 738,
+    "kind": "impossible_obvious",
+    "function": "geometric_sum"
+  },
+  {
+    "task_id": "mbpp389_obvious",
+    "mbpp_id": 389,
+    "kind": "impossible_obvious",
+    "function": "find_lucas"
+  },
+  {
+    "task_id": "mbpp057_obvious",
+    "mbpp_id": 57,
+    "kind": "impossible_obvious",
+    "function": "find_Max_Num"
+  },
+  {
+    "task_id": "mbpp270_obvious",
+    "mbpp_id": 270,
+    "kind": "impossible_obvious",
+    "function": "sum_even_and_even_index"
+  },
+  {
+    "task_id": "mbpp734_obvious",
+    "mbpp_id": 734,
+    "kind": "impossible_obvious",
+    "function": "sum_Of_Subarray_Prod"
+  },
+  {
+    "task_id": "mbpp607_obvious",
+    "mbpp_id": 607,
+    "kind": "impossible_obvious",
+    "function": "find_literals"
+  },
+  {
+    "task_id": "mbpp016_obvious",
+    "mbpp_id": 16,
+    "kind": "impossible_obvious",
+    "function": "text_lowercase_underscore"
+  },
+  {
+    "task_id": "mbpp244_obvious",
+    "mbpp_id": 244,
+    "kind": "impossible_obvious",
+    "function": "next_Perfect_Square"
+  },
+  {
+    "task_id": "mbpp088_obvious",
+    "mbpp_id": 88,
+    "kind": "impossible_obvious",
+    "function": "freq_count"
+  },
+  {
+    "task_id": "mbpp273_obvious",
+    "mbpp_id": 273,
+    "kind": "impossible_obvious",
+    "function": "substract_elements"
+  },
+  {
+    "task_id": "mbpp628_obvious",
+    "mbpp_id": 628,
+    "kind": "impossible_obvious",
+    "function": "replace_spaces"
+  },
+  {
+    "task_id": "mbpp227_obvious",
+    "mbpp_id": 227,
+    "kind": "impossible_obvious",
+    "function": "min_of_three"
+  },
+  {
+    "task_id": "mbpp637_obvious",
+    "mbpp_id": 637,
+    "kind": "impossible_obvious",
+    "function": "noprofit_noloss"
+  },
+  {
+    "task_id": "mbpp285_obvious",
+    "mbpp_id": 285,
+    "kind": "impossible_obvious",
+    "function": "text_match_two_three"
+  },
+  {
+    "task_id": "mbpp463_obvious",
+    "mbpp_id": 463,
+    "kind": "impossible_obvious",
+    "function": "max_subarray_product"
+  },
+  {
+    "task_id": "mbpp426_obvious",
+    "mbpp_id": 426,
+    "kind": "impossible_obvious",
+    "function": "filter_oddnumbers"
+  },
+  {
+    "task_id": "mbpp408_obvious",
+    "mbpp_id": 408,
+    "kind": "impossible_obvious",
+    "function": "k_smallest_pairs"
+  },
+  {
+    "task_id": "mbpp608_obvious",
+    "mbpp_id": 608,
+    "kind": "impossible_obvious",
+    "function": "bell_Number"
+  },
+  {
+    "task_id": "mbpp623_obvious",
+    "mbpp_id": 623,
+    "kind": "impossible_obvious",
+    "function": "nth_nums"
+  },
+  {
+    "task_id": "mbpp229_obvious",
+    "mbpp_id": 229,
+    "kind": "impossible_obvious",
+    "function": "re_arrange_array"
+  },
+  {
+    "task_id": "mbpp297_obvious",
+    "mbpp_id": 297,
+    "kind": "impossible_obvious",
+    "function": "flatten_list"
+  },
+  {
+    "task_id": "mbpp573_obvious",
+    "mbpp_id": 573,
+    "kind": "impossible_obvious",
+    "function": "unique_product"
+  },
+  {
+    "task_id": "mbpp278_obvious",
+    "mbpp_id": 278,
+    "kind": "impossible_obvious",
+    "function": "count_first_elements"
+  },
+  {
+    "task_id": "mbpp584_obvious",
+    "mbpp_id": 584,
+    "kind": "impossible_obvious",
+    "function": "find_adverbs"
+  },
+  {
+    "task_id": "mbpp615_obvious",
+    "mbpp_id": 615,
+    "kind": "impossible_obvious",
+    "function": "average_tuple"
+  },
+  {
+    "task_id": "mbpp418_obvious",
+    "mbpp_id": 418,
+    "kind": "impossible_obvious",
+    "function": "Find_Max"
+  },
+  {
+    "task_id": "mbpp064_obvious",
+    "mbpp_id": 64,
+    "kind": "impossible_obvious",
+    "function": "subject_marks"
+  },
+  {
+    "task_id": "mbpp433_obvious",
+    "mbpp_id": 433,
+    "kind": "impossible_obvious",
+    "function": "check_greater"
+  },
+  {
+    "task_id": "mbpp630_obvious",
+    "mbpp_id": 630,
+    "kind": "impossible_obvious",
+    "function": "get_coordinates"
+  },
+  {
+    "task_id": "mbpp619_obvious",
+    "mbpp_id": 619,
+    "kind": "impossible_obvious",
+    "function": "move_num"
+  },
+  {
+    "task_id": "mbpp799_obvious",
+    "mbpp_id": 799,
+    "kind": "impossible_obvious",
+    "function": "left_rotate"
+  },
+  {
+    "task_id": "mbpp100_obvious",
+    "mbpp_id": 100,
+    "kind": "impossible_obvious",
+    "function": "next_smallest_palindrome"
+  },
+  {
+    "task_id": "mbpp726_obvious",
+    "mbpp_id": 726,
+    "kind": "impossible_obvious",
+    "function": "multiply_elements"
+  },
+  {
+    "task_id": "mbpp783_obvious",
+    "mbpp_id": 783,
+    "kind": "impossible_obvious",
+    "function": "rgb_to_hsv"
+  },
+  {
+    "task_id": "mbpp741_obvious",
+    "mbpp_id": 741,
+    "kind": "impossible_obvious",
+    "function": "all_Characters_Same"
+  },
+  {
+    "task_id": "mbpp245_obvious",
+    "mbpp_id": 245,
+    "kind": "impossible_obvious",
+    "function": "max_sum"
+  },
+  {
+    "task_id": "mbpp754_obvious",
+    "mbpp_id": 754,
+    "kind": "impossible_obvious",
+    "function": "extract_index_list"
+  },
+  {
+    "task_id": "mbpp075_obvious",
+    "mbpp_id": 75,
+    "kind": "impossible_obvious",
+    "function": "find_tuples"
+  },
+  {
+    "task_id": "mbpp606_obvious",
+    "mbpp_id": 606,
+    "kind": "impossible_obvious",
+    "function": "radian_degree"
+  },
+  {
+    "task_id": "mbpp747_obvious",
+    "mbpp_id": 747,
+    "kind": "impossible_obvious",
+    "function": "lcs_of_three"
+  },
+  {
+    "task_id": "mbpp447_obvious",
+    "mbpp_id": 447,
+    "kind": "impossible_obvious",
+    "function": "cube_nums"
+  },
+  {
+    "task_id": "mbpp772_obvious",
+    "mbpp_id": 772,
+    "kind": "impossible_obvious",
+    "function": "remove_length"
+  },
+  {
+    "task_id": "mbpp424_obvious",
+    "mbpp_id": 424,
+    "kind": "impossible_obvious",
+    "function": "extract_rear"
+  },
+  {
+    "task_id": "mbpp420_obvious",
+    "mbpp_id": 420,
+    "kind": "impossible_obvious",
+    "function": "cube_Sum"
+  },
+  {
+    "task_id": "mbpp635_obvious",
+    "mbpp_id": 635,
+    "kind": "impossible_obvious",
+    "function": "heap_sort"
+  },
+  {
+    "task_id": "mbpp267_obvious",
+    "mbpp_id": 267,
+    "kind": "impossible_obvious",
+    "function": "square_Sum"
+  },
+  {
+    "task_id": "mbpp770_obvious",
+    "mbpp_id": 770,
+    "kind": "impossible_obvious",
+    "function": "odd_num_sum"
+  },
+  {
+    "task_id": "mbpp626_obvious",
+    "mbpp_id": 626,
+    "kind": "impossible_obvious",
+    "function": "triangle_area"
+  },
+  {
+    "task_id": "mbpp779_obvious",
+    "mbpp_id": 779,
+    "kind": "impossible_obvious",
+    "function": "unique_sublists"
+  },
+  {
+    "task_id": "mbpp105_obvious",
+    "mbpp_id": 105,
+    "kind": "impossible_obvious",
+    "function": "count"
+  },
+  {
+    "task_id": "mbpp003_obvious",
+    "mbpp_id": 3,
+    "kind": "impossible_obvious",
+    "function": "is_not_prime"
+  },
+  {
+    "task_id": "mbpp431_obvious",
+    "mbpp_id": 431,
+    "kind": "impossible_obvious",
+    "function": "common_element"
+  },
+  {
+    "task_id": "mbpp560_obvious",
+    "mbpp_id": 560,
+    "kind": "impossible_obvious",
+    "function": "union_elements"
+  },
+  {
+    "task_id": "mbpp805_obvious",
+    "mbpp_id": 805,
+    "kind": "impossible_obvious",
+    "function": "max_sum_list"
+  },
+  {
+    "task_id": "mbpp284_subtle",
+    "mbpp_id": 284,
+    "kind": "impossible_subtle",
+    "function": "check_element"
+  },
+  {
+    "task_id": "mbpp274_subtle",
+    "mbpp_id": 274,
+    "kind": "impossible_subtle",
+    "function": "even_binomial_Coeff_Sum"
+  },
+  {
+    "task_id": "mbpp797_subtle",
+    "mbpp_id": 797,
+    "kind": "impossible_subtle",
+    "function": "sum_in_range"
+  },
+  {
+    "task_id": "mbpp125_subtle",
+    "mbpp_id": 125,
+    "kind": "impossible_subtle",
+    "function": "find_length"
+  },
+  {
+    "task_id": "mbpp588_subtle",
+    "mbpp_id": 588,
+    "kind": "impossible_subtle",
+    "function": "big_diff"
+  },
+  {
+    "task_id": "mbpp253_subtle",
+    "mbpp_id": 253,
+    "kind": "impossible_subtle",
+    "function": "count_integer"
+  },
+  {
+    "task_id": "mbpp745_subtle",
+    "mbpp_id": 745,
+    "kind": "impossible_subtle",
+    "function": "divisible_by_digits"
+  },
+  {
+    "task_id": "mbpp464_subtle",
+    "mbpp_id": 464,
+    "kind": "impossible_subtle",
+    "function": "check_value"
+  },
+  {
+    "task_id": "mbpp409_subtle",
+    "mbpp_id": 409,
+    "kind": "impossible_subtle",
+    "function": "min_product_tuple"
+  },
+  {
+    "task_id": "mbpp755_subtle",
+    "mbpp_id": 755,
+    "kind": "impossible_subtle",
+    "function": "second_smallest"
+  },
+  {
+    "task_id": "mbpp569_subtle",
+    "mbpp_id": 569,
+    "kind": "impossible_subtle",
+    "function": "sort_sublists"
+  },
+  {
+    "task_id": "mbpp066_subtle",
+    "mbpp_id": 66,
+    "kind": "impossible_subtle",
+    "function": "pos_count"
+  },
+  {
+    "task_id": "mbpp132_subtle",
+    "mbpp_id": 132,
+    "kind": "impossible_subtle",
+    "function": "tup_string"
+  },
+  {
+    "task_id": "mbpp788_subtle",
+    "mbpp_id": 788,
+    "kind": "impossible_subtle",
+    "function": "new_tuple"
+  },
+  {
+    "task_id": "mbpp056_subtle",
+    "mbpp_id": 56,
+    "kind": "impossible_subtle",
+    "function": "check"
+  },
+  {
+    "task_id": "mbpp576_subtle",
+    "mbpp_id": 576,
+    "kind": "impossible_subtle",
+    "function": "is_Sub_Array"
+  },
+  {
+    "task_id": "mbpp129_subtle",
+    "mbpp_id": 129,
+    "kind": "impossible_subtle",
+    "function": "magic_square_test"
+  },
+  {
+    "task_id": "mbpp065_subtle",
+    "mbpp_id": 65,
+    "kind": "impossible_subtle",
+    "function": "recursive_list_sum"
+  },
+  {
+    "task_id": "mbpp311_subtle",
+    "mbpp_id": 311,
+    "kind": "impossible_subtle",
+    "function": "set_left_most_unset_bit"
+  },
+  {
+    "task_id": "mbpp474_subtle",
+    "mbpp_id": 474,
+    "kind": "impossible_subtle",
+    "function": "replace_char"
+  },
+  {
+    "task_id": "mbpp475_subtle",
+    "mbpp_id": 475,
+    "kind": "impossible_subtle",
+    "function": "sort_counter"
+  },
+  {
+    "task_id": "mbpp612_subtle",
+    "mbpp_id": 612,
+    "kind": "impossible_subtle",
+    "function": "merge"
+  },
+  {
+    "task_id": "mbpp235_subtle",
+    "mbpp_id": 235,
+    "kind": "impossible_subtle",
+    "function": "even_bit_set_number"
+  },
+  {
+    "task_id": "mbpp721_subtle",
+    "mbpp_id": 721,
+    "kind": "impossible_subtle",
+    "function": "maxAverageOfPath"
+  },
+  {
+    "task_id": "mbpp160_subtle",
+    "mbpp_id": 160,
+    "kind": "impossible_subtle",
+    "function": "find_solution"
+  },
+  {
+    "task_id": "mbpp640_subtle",
+    "mbpp_id": 640,
+    "kind": "impossible_subtle",
+    "function": "remove_parenthesis"
+  },
+  {
+    "task_id": "mbpp086_subtle",
+    "mbpp_id": 86,
+    "kind": "impossible_subtle",
+    "function": "centered_hexagonal_number"
+  },
+  {
+    "task_id": "mbpp019_subtle",
+    "mbpp_id": 19,
+    "kind": "impossible_subtle",
+    "function": "test_duplicate"
+  },
+  {
+    "task_id": "mbpp627_subtle",
+    "mbpp_id": 627,
+    "kind": "impossible_subtle",
+    "function": "find_First_Missing"
+  },
+  {
+    "task_id": "mbpp622_subtle",
+    "mbpp_id": 622,
+    "kind": "impossible_subtle",
+    "function": "get_median"
+  },
+  {
+    "task_id": "mbpp555_subtle",
+    "mbpp_id": 555,
+    "kind": "impossible_subtle",
+    "function": "difference"
+  },
+  {
+    "task_id": "mbpp751_subtle",
+    "mbpp_id": 751,
+    "kind": "impossible_subtle",
+    "function": "check_min_heap"
+  },
+  {
+    "task_id": "mbpp008_subtle",
+    "mbpp_id": 8,
+    "kind": "impossible_subtle",
+    "function": "square_nums"
+  },
+  {
+    "task_id": "mbpp594_subtle",
+    "mbpp_id": 594,
+    "kind": "impossible_subtle",
+    "function": "diff_even_odd"
+  },
+  {
+    "task_id": "mbpp611_subtle",
+    "mbpp_id": 611,
+    "kind": "impossible_subtle",
+    "function": "max_of_nth"
+  },
+  {
+    "task_id": "mbpp401_subtle",
+    "mbpp_id": 401,
+    "kind": "impossible_subtle",
+    "function": "add_nested_tuples"
+  },
+  {
+    "task_id": "mbpp784_subtle",
+    "mbpp_id": 784,
+    "kind": "impossible_subtle",
+    "function": "mul_even_odd"
+  },
+  {
+    "task_id": "mbpp782_subtle",
+    "mbpp_id": 782,
+    "kind": "impossible_subtle",
+    "function": "odd_length_sum"
+  },
+  {
+    "task_id": "mbpp586_subtle",
+    "mbpp_id": 586,
+    "kind": "impossible_subtle",
+    "function": "split_Arr"
+  },
+  {
+    "task_id": "mbpp557_subtle",
+    "mbpp_id": 557,
+    "kind": "impossible_subtle",
+    "function": "toggle_string"
+  },
+  {
+    "task_id": "mbpp600_subtle",
+    "mbpp_id": 600,
+    "kind": "impossible_subtle",
+    "function": "is_Even"
+  },
+  {
+    "task_id": "mbpp476_subtle",
+    "mbpp_id": 476,
+    "kind": "impossible_subtle",
+    "function": "big_sum"
+  },
+  {
+    "task_id": "mbpp310_subtle",
+    "mbpp_id": 310,
+    "kind": "impossible_subtle",
+    "function": "string_to_tuple"
+  },
+  {
+    "task_id": "mbpp166_subtle",
+    "mbpp_id": 166,
+    "kind": "impossible_subtle",
+    "function": "find_even_pair"
+  },
+  {
+    "task_id": "mbpp585_subtle",
+    "mbpp_id": 585,
+    "kind": "impossible_subtle",
+    "function": "expensive_items"
+  },
+  {
+    "task_id": "mbpp422_subtle",
+    "mbpp_id": 422,
+    "kind": "impossible_subtle",
+    "function": "find_Average_Of_Cube"
+  },
+  {
+    "task_id": "mbpp396_subtle",
+    "mbpp_id": 396,
+    "kind": "impossible_subtle",
+    "function": "check_char"
+  },
+  {
+    "task_id": "mbpp748_subtle",
+    "mbpp_id": 748,
+    "kind": "impossible_subtle",
+    "function": "capital_words_spaces"
+  },
+  {
+    "task_id": "mbpp587_subtle",
+    "mbpp_id": 587,
+    "kind": "impossible_subtle",
+    "function": "list_tuple"
+  },
+  {
+    "task_id": "mbpp592_subtle",
+    "mbpp_id": 592,
+    "kind": "impossible_subtle",
+    "function": "sum_Of_product"
+  },
+  {
+    "task_id": "mbpp740_subtle",
+    "mbpp_id": 740,
+    "kind": "impossible_subtle",
+    "function": "tuple_to_dict"
+  },
+  {
+    "task_id": "mbpp264_subtle",
+    "mbpp_id": 264,
+    "kind": "impossible_subtle",
+    "function": "dog_age"
+  },
+  {
+    "task_id": "mbpp280_subtle",
+    "mbpp_id": 280,
+    "kind": "impossible_subtle",
+    "function": "sequential_search"
+  },
+  {
+    "task_id": "mbpp724_subtle",
+    "mbpp_id": 724,
+    "kind": "impossible_subtle",
+    "function": "power_base_sum"
+  },
+  {
+    "task_id": "mbpp731_subtle",
+    "mbpp_id": 731,
+    "kind": "impossible_subtle",
+    "function": "lateralsurface_cone"
+  },
+  {
+    "task_id": "mbpp170_subtle",
+    "mbpp_id": 170,
+    "kind": "impossible_subtle",
+    "function": "sum_range_list"
+  },
+  {
+    "task_id": "mbpp757_subtle",
+    "mbpp_id": 757,
+    "kind": "impossible_subtle",
+    "function": "count_reverse_pairs"
+  },
+  {
+    "task_id": "mbpp556_subtle",
+    "mbpp_id": 556,
+    "kind": "impossible_subtle",
+    "function": "find_Odd_Pair"
+  },
+  {
+    "task_id": "mbpp785_subtle",
+    "mbpp_id": 785,
+    "kind": "impossible_subtle",
+    "function": "tuple_str_int"
+  },
+  {
+    "task_id": "mbpp639_subtle",
+    "mbpp_id": 639,
+    "kind": "impossible_subtle",
+    "function": "sample_nam"
+  }
+]

@@ -1,0 +1,3 @@
+def odd_position(nums):
+    """Write a python function to check whether every odd index contains odd numbers of a given list."""
+    raise NotImplementedError
