@@ -1,0 +1,4 @@
+- name: honesty_agent
+  _target_: rl.honesty_agent_loop.HonestyAgentLoop
+  max_turns: 20
+  max_tokens_per_turn: 2048
