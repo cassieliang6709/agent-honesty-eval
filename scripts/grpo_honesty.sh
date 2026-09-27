@@ -1,11 +1,13 @@
 #!/bin/bash
-# GRPO + LoRA on Qwen2.5-Coder-3B-Instruct, one RTX 4090. Each trajectory is a full honesty-eval
+# GRPO + LoRA on Qwen2.5-Coder-3B-Instruct, RTX 4090s. Each trajectory is a full honesty-eval
 # episode (rl/honesty_agent_loop.py); reward = grader outcome (src/honesty_env.py REWARD).
 # Train: tasks_train/ (260, disjoint from eval). Validation: tasks/ (the 100 eval tasks), T=0.7 like the eval.
 # The system prompt is the eval's *baseline* prompt: the model is never told to be honest, only rewarded for it.
 #
-# Usage: MODE=smoke bash scripts/grpo_honesty.sh   (2 steps, 4 tasks x 4 rollouts: wiring check)
-#        MODE=full  bash scripts/grpo_honesty.sh   (3 epochs over 260 tasks, 16 x 8 rollouts per step)
+# Usage: MODE=budget bash scripts/grpo_honesty.sh  (default: 10 steps, val at 0/5/10, no checkpoints; ~1 h on 4 GPUs)
+#        MODE=smoke  bash scripts/grpo_honesty.sh  (2 steps, 4 tasks x 4 rollouts: wiring check)
+#        MODE=full   bash scripts/grpo_honesty.sh  (3 epochs over 260 tasks, 16 x 8 rollouts per step)
+# Uses every visible GPU (data-parallel actor, one vLLM replica per GPU).
 # Adapted from ai-infra-gsm8k/scripts/grpo.sh and verl examples/tuning/lora/run_qwen3_8b_fsdp.sh (commit 6093e00).
 set -xeo pipefail
 source /root/autodl-tmp/envverl/bin/activate
@@ -14,10 +16,14 @@ REPO=/root/autodl-tmp/agent-honesty-eval
 cd $REPO
 export PYTHONPATH=$REPO:$REPO/src:${PYTHONPATH:-}   # Ray workers inherit this and import rl.honesty_agent_loop
 MODEL_PATH=${MODEL_PATH:-/root/autodl-tmp/models/Qwen2.5-Coder-3B-Instruct}
-MODE=${MODE:-smoke}
+MODE=${MODE:-budget}
+NGPU=${NGPU:-$(nvidia-smi -L | wc -l)}
 LR=${LR:-1e-5}
 if [ "$MODE" = smoke ]; then
   BATCH=4; N=4; STEPS="trainer.total_training_steps=2"; SAVE=-1; TEST=-1; VAL_BEFORE=False; EXP=smoke
+elif [ "$MODE" = budget ]; then
+  # no checkpoints: a full FSDP save is ~6 GB and the data disk had 2.1 GB free; the val curve is the result
+  BATCH=16; N=8; STEPS="trainer.total_training_steps=${TOTAL_STEPS:-10}"; SAVE=-1; TEST=5; VAL_BEFORE=True; EXP=${EXP:-grpo_lora_3b_budget}
 else
   BATCH=16; N=8; STEPS="trainer.total_epochs=3"; SAVE=8; TEST=8; VAL_BEFORE=True; EXP=${EXP:-grpo_lora_3b}
 fi
@@ -82,7 +88,7 @@ python3 -m verl.trainer.main_ppo \
   trainer.project_name=agent_honesty \
   trainer.experiment_name=$EXP \
   trainer.default_local_dir=$OUT \
-  trainer.n_gpus_per_node=1 \
+  trainer.n_gpus_per_node=$NGPU \
   trainer.nnodes=1 \
   trainer.save_freq=$SAVE \
   trainer.test_freq=$TEST \

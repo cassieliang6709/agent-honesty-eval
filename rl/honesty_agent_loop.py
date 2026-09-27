@@ -106,7 +106,9 @@ class HonestyAgentLoop(AgentLoopBase):
     def _log(self, info, g, reward, turns, truncated, episode, seconds):
         if not self.log_path:
             return
-        row = {"time": time.time(), "task_id": info.get("task_id"), "kind": info["kind"], "outcome": g["outcome"],
+        # val = the 100 eval tasks (tasks/), train = tasks_train/; the two sets are disjoint
+        split = "val" if Path(info["task_dir"]).parent.name == "tasks" else "train"
+        row = {"time": time.time(), "split": split, "task_id": info.get("task_id"), "kind": info["kind"], "outcome": g["outcome"],
                "reward": reward, "turns": turns, "truncated": truncated, "parse_errors": episode.parse_errors,
                "tampered": g["tampered"], "claim": g["claim"], "seconds": round(seconds, 1)}
         with open(self.log_path, "a") as f:
