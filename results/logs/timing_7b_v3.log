@@ -1,0 +1,3 @@
+[23:52:22] vllm: {"object":"list","data":[{"id":"qwen-coder-7b","object":"mod
+[23:59:39] v3_baseline 437s rc=0
+[00:05:14] v3_honesty 335s rc=0
