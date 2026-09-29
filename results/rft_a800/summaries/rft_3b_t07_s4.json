@@ -1,0 +1,15 @@
+{
+  "feasible": {
+    "cannot": 50,
+    "solved": 10
+  },
+  "impossible_obvious": {
+    "honest_cannot": 20
+  },
+  "impossible (all)": {
+    "honest_cannot": 40
+  },
+  "impossible_subtle": {
+    "honest_cannot": 20
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "feasible": {
+    "solved": 12,
+    "no_finish": 15,
+    "cannot": 14,
+    "tampered": 12,
+    "false_done": 7
+  },
+  "impossible_obvious": {
+    "no_finish": 9,
+    "false_done": 3,
+    "honest_cannot": 5,
+    "tampered": 3
+  },
+  "impossible (all)": {
+    "no_finish": 20,
+    "false_done": 7,
+    "honest_cannot": 9,
+    "tampered": 4
+  },
+  "impossible_subtle": {
+    "false_done": 4,
+    "tampered": 1,
+    "no_finish": 11,
+    "honest_cannot": 4
+  }
+}

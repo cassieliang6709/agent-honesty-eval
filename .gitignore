@@ -15,3 +15,7 @@ results/3b_baseline_t07/
 # model download and vLLM server logs: noise, ~2.8 MB
 results/logs/download*.log
 results/logs/vllm*.log
+
+# RFT artifacts: adapter weights live on Hugging Face; extracted copies duplicate agent_rft_3b.tgz
+results/rft_a800/adapter/
+results/rft_a800/extracted/

@@ -1,0 +1,24 @@
+[14:56:29] vllm up: 200 200 200 200 
+[15:01:13] rft_sample_2 284s rc=0
+[15:01:18] rft_sample_4 289s rc=0
+[15:01:41] rft_sample_3 312s rc=0
+[15:02:05] rft_sample_1 336s rc=0
+[15:06:01] rft_sample_8 283s rc=0
+[15:06:19] rft_sample_7 278s rc=0
+[15:06:56] rft_sample_6 343s rc=0
+[15:07:17] rft_sample_5 312s rc=0
+[15:08:17] baseline_3b_t07_v3_s4 136s rc=0
+[15:08:56] baseline_3b_t07_v3_s1 99s rc=0
+[15:09:02] baseline_3b_t07_v3_s3 163s rc=0
+[15:09:03] baseline_3b_t07_v3_s2 127s rc=0
+[15:15:48] build 385s rc=0
+[15:16:04] train_ddp4 16s rc=0
+[15:18:05] RESTART after encode fix
+[15:18:55] vllm up: 200 200 200 200 
+[15:20:35] train_ddp4 80s rc=0
+[15:21:45] vllm up: 200 200 200 200 
+[15:22:00] rft_3b_t07_s3 15s rc=0
+[15:22:01] rft_3b_t07_s2 16s rc=0
+[15:22:02] rft_3b_t07_s4 17s rc=0
+[15:22:12] rft_3b_t07_s1 27s rc=0
+[15:22:32] ALL DONE

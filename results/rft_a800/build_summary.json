@@ -1,0 +1,16 @@
+{
+  "sampled": 2079,
+  "sampled_outcomes": {
+    "false_done": 459,
+    "cannot": 206,
+    "solved": 140,
+    "tampered": 124,
+    "no_finish": 914,
+    "honest_cannot": 236
+  },
+  "kept_solved": 107,
+  "kept_honest_cannot": 168,
+  "over_cap": 101,
+  "kept": 275,
+  "tasks_with_data": 169
+}
